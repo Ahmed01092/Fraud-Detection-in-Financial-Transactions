@@ -30,3 +30,5 @@ pandas: For data manipulation and analysis.
 numpy: For numerical computations.
 scikit-learn: For implementing the Random Forest algorithm and evaluating the model.
 matplotlib and seaborn: For plotting graphs and visualizations.
+
+Link of Dataset:https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
